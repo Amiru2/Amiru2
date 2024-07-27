@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Amiru.
 
-A passionate Mobile Application Engineer from Sri Lanka
+A passionate Mobile Application Engineer from Sri Lanka.
 
 ### About Me:
 
@@ -26,10 +26,6 @@ A passionate Mobile Application Engineer from Sri Lanka
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### GitHub Stats:
-
-![Amiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amiru2&show_icons=true)
 
 ### Profile Views:
 
