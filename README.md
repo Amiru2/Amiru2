@@ -29,7 +29,7 @@ A passionate Mobile Application Engineer from Sri Lanka
 
 ### GitHub Stats:
 
-![Amiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amiru2e&show_icons=true)
+![Amiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amiru2&show_icons=true)
 
 ### Profile Views:
 
