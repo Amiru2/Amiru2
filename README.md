@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Your Name]
+## Hi 👋, I'm Amiru.
 
 A passionate Mobile Application Engineer from Sri Lanka
 
