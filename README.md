@@ -6,7 +6,7 @@ A passionate Mobile Application Engineer from Sri Lanka
 
 - 🔭 I’m currently working on Android Project.
 - 🌱 I’m currently learning more about Flutter.
-- 📫 How to reach me: (https://www.linkedin.com/in/amirudissanayaka/?original_referer=)
+- 📫 How to reach me: (https://www.linkedin.com/in/amirudissanayaka)
 
 ### Socials:
 
