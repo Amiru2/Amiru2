@@ -2,7 +2,8 @@
 ### **Mobile Application Engineer | Flutter & Android Developer**  
 
 🔹 Passionate about building high-performance mobile applications  
-🔹 Currently working on an **Android project**  
+🔹 Currently working on **multiple Android and Flutter projects**  
+🔹 Experienced with **Flutter iOS development**  
 🔹 Exploring and learning more about **Flutter**  
 
 📫 **Connect with me on LinkedIn:**  
