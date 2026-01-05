@@ -30,7 +30,7 @@ Offline-first operations tool used to record weighments, attendance, and field t
 ---
 
 ## 🌐 Portfolio & Contact  
-✨ **Portfolio:** https://bento.me/amiru  
+✨ **Personal Website:** https://amiru.vercel.app/
 💼 **LinkedIn:** https://www.linkedin.com/in/amirudissanayaka  
 
 ---
